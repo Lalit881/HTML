@@ -1,0 +1,47 @@
+Website
+A website is a collection of linked web pages that share a unique domain name. A web page is a way to display information on the internet. It's made up of elements like text, images, links, videos, or buttons.
+
+WWW
+World Wide Web, which is also known as a Web, is a collection of websites or web pages stored in web servers and connected to local computers through the internet. These websites contain text pages, digital images, audios, videos, etc. Users can access the content of these sites from any part of the world over the internet using their devices such as computers, laptops, cell phones, etc.
+
+HTTP&HTTPS
+An HTTP stands for Hypertext Transfer Protocol. The HTTP protocol provides communication between different communication systems.we can say that the HTTP protocol allows us to transfer the data from the server to the client.An HTTP is an application layer protocol
+
+HTTPS is Hypertext Transfer Protocol Secure.HTTPS is a secure version of the HTTP protocol. This protocol allows transferring the data in an encrypted form. The use of HTTPS protocol is mainly required where we need to enter the bank account details. The HTTPS protocol is mainly used where we require to enter the login credentials.HTTPS uses an encryption protocol known as Transport Layer Security
+
+Client Server
+A server is simply a computer that provides the network resources and provides service to other computers when they request it. A client is the computer running a program that requests the service from a server. Local area network (LAN) is based on client server network relationship.
+
+Domain
+A domain name is a website's address on the Internet. Domain names are used in URLs to identify which server a specific webpage belongs to. The domain name consists of a hierarchical sequence of names (labels) separated by periods (dots) and ending with an extension
+
+Host
+A host is any hardware device that has the capability of permitting access to a network via a user interface, specialized software, network address, protocol stack, or any other means.
+
+Hosting
+A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create and maintain a site and makes it accessible on the World Wide Web.
+
+FTP
+FTP (File Transfer Protocol) is a network protocol for transmitting files between computers over Transmission Control Protocol/Internet Protocol (TCP/IP) connections. Within the TCP/IP suite, FTP is considered an application layer protocol.
+
+Path
+A path is a string of characters used to uniquely identify a location in a directory structure
+
+Extension
+The extension is a three- or four-letter that signifies the file type. For example, in letter.docx the filename is letter and the extension is docx.
+
+Editor / vscode
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
+
+URI&URL&URN
+A URI (Uniform Resource Identifier) is a formal system for uniquely identifying resources and consists of two types: URLs (Uniform Resource Locator) and URNs (Uniform Resource Name).
+
+A URL, also known as a web address, identifies a web resource as well as its location on a computer network and how to access it (e.g. http://www.library.pitt.edu).
+
+A URN is a formal naming scheme that identifies a resource, but does not indicate its location or how to access it (e.g. ISBN, ISSN).
+
+Address Bar
+The address bar is the familiar text field at the top of a web browser's graphical user interface (GUI) that displays the name or the URL (uniform resource locator) of the current web page.
+
+TITLE BAR
+The title bar at the top of a window displays an application-defined icon and line of text. The text specifies the name of the application and indicates the purpose of the window.
