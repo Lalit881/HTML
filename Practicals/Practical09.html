@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice Table</title>
+    <style>
+        .center{
+            text-align: center;
+        }
+        table{
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>Create A Invoice Table</h2>
+    <table border="">
+        <tbody>
+            <tr>
+                <td colspan="3" class="center">Invoice#123456789</td>
+                <td class="center">14 January 2023</td>
+            </tr>
+            <tr>
+                <td colspan="2">Pay to:<br>Acme Billing Co.<br>123 Main St.<br>Cityville, NA 12345</td>
+                <td colspan="2">Customer:<br>John Smith<br>321 Willow Way<br>Southeast Northwestershire, MA 54321</td>
+            </tr>
+            <tr>
+                <td>Name/Description</td>
+                <td>Qty.</td>
+                <td class="center">@</td>
+                <td class="center">Cost</td>
+            </tr>
+            <tr>
+                <td>Paperclips</td>
+                <td>1000</td>
+                <td>0.01</td>
+                <td>10.00</td>
+            </tr>
+            <tr>
+                <td>Staples(box)</td>
+                <td>100</td>
+                <td>1.00</td>
+                <td>100</td>
+            </tr>
+            <tr>
+                <td colspan="3" class="center">Subtotal</td>
+                <td>110.00</td>
+            </tr>
+            <tr>
+                <td colspan="2" class="center">Tax</td>
+                <td>8%</td>
+                <td>8.80</td>
+            </tr>
+            <tr>
+                <td colspan="3" class="center">Grand Total</td>
+                <td>&dollar; 118.80</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
